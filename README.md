@@ -70,13 +70,13 @@ Düzenle
 }
 
 🧰 Ekstra Özellikler
- Global Exception Middleware
+ -Global Exception Middleware
 
- Swagger UI entegrasyonu
+ -Swagger UI entegrasyonu
 
- Event Driven yapı (MassTransit + RabbitMQ)
+ -Event Driven yapı (MassTransit + RabbitMQ)
 
- Katmanlı mimari (Onion Architecture)
+ -Katmanlı mimari (Onion Architecture)
 
 
 
