@@ -1,91 +1,59 @@
-📦 SmartCargo - Akıllı Kargo Yönlendirme Sistemi
+# 📦 SmartCargo - Akıllı Kargo Yönlendirme Sistemi
 
-🚀 Proje Amacı
+## 🚀 Proje Amacı
 
-SmartCargo, e-ticaret sistemleri için geliştirilen bir Web API'dir. Siparişlerin, kargo firmalarının kapasite, şehir uyumu ve teslimat süresi gibi kriterlerine göre en uygun firmaya yönlendirilmesini sağlar.
+**SmartCargo**, e-ticaret sistemleri için geliştirilen bir Web API'dir.  
+Siparişlerin, kargo firmalarının **kapasite**, **şehir uyumu** ve **teslimat süresi** gibi kriterlere göre en uygun firmaya yönlendirilmesini sağlar.
 
-🧱 Mimarisi
+---
 
-Proje, Onion Architecture mimarisi ile yapılandırılmıştır:
+## 🧱 Mimarisi
 
-SmartCargo.API              --> Web API (Giriş noktasy)
-SmartCargo.Application      --> CQRS, MediatR, DTO'lar, Event'ler
-SmartCargo.Domain           --> Entity'ler, Interface tanımları
-SmartCargo.Persistence      --> DbContext, Repository
-SmartCargo.Infrastructure  --> ServiceRegistration, DI ayarları
+Proje, **Onion Architecture** prensiplerine göre katmanlı olarak yapılandırılmıştır:
 
-🛠️ Teknolojiler
 
-✅ ASP.NET Core Web API
+---
 
-✅ Entity Framework Core + PostgreSQL
+## 🛠️ Kullanılan Teknolojiler
 
-✅ CQRS & MediatR
+- ✅ ASP.NET Core Web API  
+- ✅ Entity Framework Core + PostgreSQL  
+- ✅ CQRS & MediatR  
+- ✅ MassTransit + RabbitMQ  
+- ✅ Swagger UI  
+- ✅ Global Exception Middleware  
+- ✅ Docker Desteği (opsiyonel)
 
-✅ MassTransit + RabbitMQ
+---
 
-✅ Swagger
+## ⚙️ Kurulum
 
-✅ Global Exception Middleware
-
-✅ Docker Desteği (isteğe bağlı)
-
-⚙️ Kurulum
-
-1. Gerekli paketleri yükle:
-
-dotnet restore
-
-2. Migration uygula ve veritabanını oluştur:
-
+1. Gerekli NuGet paketlerini yükle:
+   ```bash
+   dotnet restore
+2.Migration’ları veritabanına uygula:
 dotnet ef database update --project SmartCargo.API
-
-3. Uygulamayı çalıştır:
-
+3.Uygulamayı başlat:
 dotnet run --project SmartCargo.API
-
-4. Swagger Arayüzü:
-
-📍 http://localhost:5146/swagger
+4.Swagger arayüzü ile test et: http://localhost:5146/swagger
 
 🔗 API Uç Noktaları
 
-Metot
-
-Endpoint
-
-Açıklama
-
-POST
-
-/api/shipment
-
-Yeni gönderi oluşturur
-
-GET
-
-/api/shipment
-
-Tüm gönderileri listeler
-
-GET
-
-/api/shipment/{id}
-
-Belirli gönderi detayını getirir
-
+Metot	Endpoint	Açıklama
+POST	/api/shipment	Yeni gönderi oluşturur
+GET	/api/shipment	Tüm gönderileri listeler
+GET	/api/shipment/{id}	Gönderi detayını getirir
 📡 RabbitMQ Event Mekanizması
+📤 ShipmentCreatedEvent yayınlanır.
 
-📤 ShipmentCreatedEvent fırlatılır →🎧 ShipmentCreatedEventConsumer bu eventi dinler ve loglar.
+🎧 ShipmentCreatedEventConsumer, bu eventi dinler ve işlemler yapabilir.
 
 MassTransit + RabbitMQ kullanılarak event-driven yapı kurulmuştur.
 
-🧺 Swagger ile Test Et
-
-Swagger arayüzü üzerinden POST/GET işlemleri yapılabilir.
-
-Örnek Request Body:
-
+🧪 Swagger Test Örneği
+json
+Kopyala
+Düzenle
 {
   "orderNumber": "ORD-12345",
   "description": "Dizüstü Bilgisayar",
@@ -98,14 +66,20 @@ Swagger arayüzü üzerinden POST/GET işlemleri yapılabilir.
 }
 
 🧰 Ekstra Özellikler
+ Global Exception Middleware
+
+ Swagger UI entegrasyonu
+
+ Event Driven yapı (MassTransit + RabbitMQ)
+
+ Katmanlı mimari (Onion Architecture)
 
 
 
-🧑‍💻 Katkıda Bulunmak
-
-Her türlü katkıya ve geliştirici fikrine açığım! PR gönderin, issue açın veya forka alıp kendi çözümüzü üretin 👌👊
+👩‍💻 Katkıda Bulunmak
+Her türlü katkıya ve fikre açığım!
+Fork'layın, issue açın veya pull request gönderin 🙌
 
 📋 Lisans
-
-Bu proje eğitim amaçlıdır ve serbestçe kullanılabilir. Dilerseniz üzerinde değişiklik yapabilir, projelerinize dahil edebilirsiniz.
-
+Bu proje eğitim amaçlıdır ve tamamen özgürce kullanılabilir.
+İsterseniz projelerinize dahil edebilir, geliştirebilir ya da paylaşabilirsiniz.
