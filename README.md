@@ -28,14 +28,18 @@ Proje, **Onion Architecture** prensiplerine göre katmanlı olarak yapılandır�
 
 ## ⚙️ Kurulum
 
-1. Gerekli NuGet paketlerini yükle:
-   ```bash
-   dotnet restore
-2.Migration’ları veritabanına uygula:
-dotnet ef database update --project SmartCargo.API
-3.Uygulamayı başlat:
-dotnet run --project SmartCargo.API
-4.Swagger arayüzü ile test et: http://localhost:5146/swagger
+1. Gerekli NuGet paketlerini yükle:  
+   `dotnet restore`
+
+2. Migration'ı veritabanına uygula:  
+   `dotnet ef database update --project SmartCargo.API`
+
+3. Uygulamayı başlat:  
+   `dotnet run --project SmartCargo.API`
+
+4. Swagger arayüzü ile test et:  
+   [http://localhost:5146/swagger](http://localhost:5146/swagger)
+
 
 🔗 API Uç Noktaları
 
