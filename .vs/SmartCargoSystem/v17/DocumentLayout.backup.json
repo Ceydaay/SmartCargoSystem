@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|solutionrelative:smartcargo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8CC95-1717-4536-94C4-2ECB47A8A5A1}|SmartCargo.Persistence\\SmartCargo.Persistence.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.persistence\\repositories\\shipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8CC95-1717-4536-94C4-2ECB47A8A5A1}|SmartCargo.Persistence\\SmartCargo.Persistence.csproj|solutionrelative:smartcargo.persistence\\repositories\\shipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8CC95-1717-4536-94C4-2ECB47A8A5A1}|SmartCargo.Persistence\\SmartCargo.Persistence.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.persistence\\contexts\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8CC95-1717-4536-94C4-2ECB47A8A5A1}|SmartCargo.Persistence\\SmartCargo.Persistence.csproj|solutionrelative:smartcargo.persistence\\contexts\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8CC95-1717-4536-94C4-2ECB47A8A5A1}|SmartCargo.Persistence\\SmartCargo.Persistence.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8CC95-1717-4536-94C4-2ECB47A8A5A1}|SmartCargo.Persistence\\SmartCargo.Persistence.csproj|solutionrelative:smartcargo.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6789A0B6-30B7-4BF5-AD12-0C9AEF6987EA}|SmartCargo.Infrastructure\\SmartCargo.Infrastructure.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.infrastructure\\dependencyinjection\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6789A0B6-30B7-4BF5-AD12-0C9AEF6987EA}|SmartCargo.Infrastructure\\SmartCargo.Infrastructure.csproj|solutionrelative:smartcargo.infrastructure\\dependencyinjection\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723B9077-8521-435D-90E2-B7F60DCCED5B}|SmartCargo.Domain\\SmartCargo.Domain.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.domain\\entities\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723B9077-8521-435D-90E2-B7F60DCCED5B}|SmartCargo.Domain\\SmartCargo.Domain.csproj|solutionrelative:smartcargo.domain\\entities\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723B9077-8521-435D-90E2-B7F60DCCED5B}|SmartCargo.Domain\\SmartCargo.Domain.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.domain\\entities\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723B9077-8521-435D-90E2-B7F60DCCED5B}|SmartCargo.Domain\\SmartCargo.Domain.csproj|solutionrelative:smartcargo.domain\\entities\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\interfaces\\ishipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\interfaces\\ishipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\features\\shipments\\queries\\getshipmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\features\\shipments\\queries\\getshipmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\features\\shipments\\queries\\getallshipmentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\features\\shipments\\queries\\getallshipmentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\features\\shipments\\handlers\\getshipmentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\features\\shipments\\handlers\\getshipmentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\features\\shipments\\handlers\\getallshipmentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\features\\shipments\\handlers\\getallshipmentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\features\\shipments\\handlers\\createshipmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\features\\shipments\\handlers\\createshipmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\features\\shipments\\commands\\createshipmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\features\\shipments\\commands\\createshipmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\events\\shipmentcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\events\\shipmentcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\dtos\\shipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\dtos\\shipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\dtos\\createshipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\dtos\\createshipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\consumers\\shipmentcreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\consumers\\shipmentcreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.application\\smartcargo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2991ED72-DF55-4236-87D2-C62EE7D12E3A}|SmartCargo.Application\\SmartCargo.Application.csproj|solutionrelative:smartcargo.application\\smartcargo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|solutionrelative:smartcargo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|solutionrelative:smartcargo.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.api\\controllers\\shipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|solutionrelative:smartcargo.api\\controllers\\shipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.api\\controllers\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|solutionrelative:smartcargo.api\\controllers\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|solutionrelative:smartcargo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.api\\smartcargo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|solutionrelative:smartcargo.api\\smartcargo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.api\\smartcargo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BFA575F5-67EC-4E75-9139-A0E7C3C13C33}|SmartCargo.API\\SmartCargo.API.csproj|solutionrelative:smartcargo.api\\smartcargo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8CC95-1717-4536-94C4-2ECB47A8A5A1}|SmartCargo.Persistence\\SmartCargo.Persistence.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.persistence\\smartcargo.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9C8CC95-1717-4536-94C4-2ECB47A8A5A1}|SmartCargo.Persistence\\SmartCargo.Persistence.csproj|solutionrelative:smartcargo.persistence\\smartcargo.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723B9077-8521-435D-90E2-B7F60DCCED5B}|SmartCargo.Domain\\SmartCargo.Domain.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.domain\\smartcargo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{723B9077-8521-435D-90E2-B7F60DCCED5B}|SmartCargo.Domain\\SmartCargo.Domain.csproj|solutionrelative:smartcargo.domain\\smartcargo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6789A0B6-30B7-4BF5-AD12-0C9AEF6987EA}|SmartCargo.Infrastructure\\SmartCargo.Infrastructure.csproj|c:\\users\\ceyda.yilmaz\\smartcargosystem\\smartcargo.infrastructure\\smartcargo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6789A0B6-30B7-4BF5-AD12-0C9AEF6987EA}|SmartCargo.Infrastructure\\SmartCargo.Infrastructure.csproj|solutionrelative:smartcargo.infrastructure\\smartcargo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetShipmentByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Queries\\GetShipmentByIdQuery.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\Features\\Shipments\\Queries\\GetShipmentByIdQuery.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Queries\\GetShipmentByIdQuery.cs",
+              "RelativeToolTip": "SmartCargo.Application\\Features\\Shipments\\Queries\\GetShipmentByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:15:22.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IShipmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Interfaces\\IShipmentRepository.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\Interfaces\\IShipmentRepository.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Interfaces\\IShipmentRepository.cs",
+              "RelativeToolTip": "SmartCargo.Application\\Interfaces\\IShipmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:53:25.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carrier.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Domain\\Entities\\Carrier.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Domain\\Entities\\Carrier.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Domain\\Entities\\Carrier.cs",
+              "RelativeToolTip": "SmartCargo.Domain\\Entities\\Carrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:46:05.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Domain\\Entities\\Shipment.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Domain\\Entities\\Shipment.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Domain\\Entities\\Shipment.cs",
+              "RelativeToolTip": "SmartCargo.Domain\\Entities\\Shipment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:45:30.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Infrastructure\\DependencyInjection\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Infrastructure\\DependencyInjection\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Infrastructure\\DependencyInjection\\ServiceRegistration.cs",
+              "RelativeToolTip": "SmartCargo.Infrastructure\\DependencyInjection\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:15:49.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Persistence\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "SmartCargo.Persistence\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:54:29.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Persistence\\Contexts\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Persistence\\Contexts\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Persistence\\Contexts\\AppDbContextFactory.cs",
+              "RelativeToolTip": "SmartCargo.Persistence\\Contexts\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:57:43.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShipmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Persistence\\Repositories\\ShipmentRepository.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Persistence\\Repositories\\ShipmentRepository.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Persistence\\Repositories\\ShipmentRepository.cs",
+              "RelativeToolTip": "SmartCargo.Persistence\\Repositories\\ShipmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:55:30.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SmartCargo.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SmartCargo.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T18:07:07.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllShipmentsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Queries\\GetAllShipmentsQuery.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\Features\\Shipments\\Queries\\GetAllShipmentsQuery.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Queries\\GetAllShipmentsQuery.cs",
+              "RelativeToolTip": "SmartCargo.Application\\Features\\Shipments\\Queries\\GetAllShipmentsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:50:31.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetShipmentByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Handlers\\GetShipmentByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\Features\\Shipments\\Handlers\\GetShipmentByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Handlers\\GetShipmentByIdQueryHandler.cs",
+              "RelativeToolTip": "SmartCargo.Application\\Features\\Shipments\\Handlers\\GetShipmentByIdQueryHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:20:09.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllShipmentsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Handlers\\GetAllShipmentsQueryHandler.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\Features\\Shipments\\Handlers\\GetAllShipmentsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Handlers\\GetAllShipmentsQueryHandler.cs",
+              "RelativeToolTip": "SmartCargo.Application\\Features\\Shipments\\Handlers\\GetAllShipmentsQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:52:08.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateShipmentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Handlers\\CreateShipmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\Features\\Shipments\\Handlers\\CreateShipmentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Handlers\\CreateShipmentCommandHandler.cs",
+              "RelativeToolTip": "SmartCargo.Application\\Features\\Shipments\\Handlers\\CreateShipmentCommandHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:51:42.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateShipmentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Commands\\CreateShipmentCommand.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\Features\\Shipments\\Commands\\CreateShipmentCommand.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Features\\Shipments\\Commands\\CreateShipmentCommand.cs",
+              "RelativeToolTip": "SmartCargo.Application\\Features\\Shipments\\Commands\\CreateShipmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:50:06.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShipmentCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Events\\ShipmentCreatedEvent.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\Events\\ShipmentCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Events\\ShipmentCreatedEvent.cs",
+              "RelativeToolTip": "SmartCargo.Application\\Events\\ShipmentCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:35:06.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShipmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\DTOs\\ShipmentDto.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\DTOs\\ShipmentDto.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\DTOs\\ShipmentDto.cs",
+              "RelativeToolTip": "SmartCargo.Application\\DTOs\\ShipmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:47:28.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateShipmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\DTOs\\CreateShipmentDto.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\DTOs\\CreateShipmentDto.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\DTOs\\CreateShipmentDto.cs",
+              "RelativeToolTip": "SmartCargo.Application\\DTOs\\CreateShipmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:47:57.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShipmentCreatedEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Consumers\\ShipmentCreatedEventConsumer.cs",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\Consumers\\ShipmentCreatedEventConsumer.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\Consumers\\ShipmentCreatedEventConsumer.cs",
+              "RelativeToolTip": "SmartCargo.Application\\Consumers\\ShipmentCreatedEventConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:43:19.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SmartCargo.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\SmartCargo.Application.csproj",
+              "RelativeDocumentMoniker": "SmartCargo.Application\\SmartCargo.Application.csproj",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Application\\SmartCargo.Application.csproj",
+              "RelativeToolTip": "SmartCargo.Application\\SmartCargo.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T22:48:21.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\Program.cs",
+              "RelativeDocumentMoniker": "SmartCargo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\Program.cs",
+              "RelativeToolTip": "SmartCargo.API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:17:07.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "SmartCargo.API\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "SmartCargo.API\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:50:12.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShipmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\Controllers\\ShipmentController.cs",
+              "RelativeDocumentMoniker": "SmartCargo.API\\Controllers\\ShipmentController.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\Controllers\\ShipmentController.cs",
+              "RelativeToolTip": "SmartCargo.API\\Controllers\\ShipmentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:20:02.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMediator.cs",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\Controllers\\IMediator.cs",
+              "RelativeDocumentMoniker": "SmartCargo.API\\Controllers\\IMediator.cs",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\Controllers\\IMediator.cs",
+              "RelativeToolTip": "SmartCargo.API\\Controllers\\IMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:16:22.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartCargo.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\appsettings.json",
+              "RelativeToolTip": "SmartCargo.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T08:17:43.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SmartCargo.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\SmartCargo.API.csproj",
+              "RelativeDocumentMoniker": "SmartCargo.API\\SmartCargo.API.csproj",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\SmartCargo.API.csproj",
+              "RelativeToolTip": "SmartCargo.API\\SmartCargo.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T18:07:50.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SmartCargo.API",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\SmartCargo.API.csproj",
+              "RelativeDocumentMoniker": "SmartCargo.API\\SmartCargo.API.csproj",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.API\\SmartCargo.API.csproj",
+              "RelativeToolTip": "SmartCargo.API\\SmartCargo.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T18:31:36.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SmartCargo.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Persistence\\SmartCargo.Persistence.csproj",
+              "RelativeDocumentMoniker": "SmartCargo.Persistence\\SmartCargo.Persistence.csproj",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Persistence\\SmartCargo.Persistence.csproj",
+              "RelativeToolTip": "SmartCargo.Persistence\\SmartCargo.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T22:55:05.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SmartCargo.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Domain\\SmartCargo.Domain.csproj",
+              "RelativeDocumentMoniker": "SmartCargo.Domain\\SmartCargo.Domain.csproj",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Domain\\SmartCargo.Domain.csproj",
+              "RelativeToolTip": "SmartCargo.Domain\\SmartCargo.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T22:44:52.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SmartCargo.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Infrastructure\\SmartCargo.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SmartCargo.Infrastructure\\SmartCargo.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ceyda.yilmaz\\SmartCargoSystem\\SmartCargo.Infrastructure\\SmartCargo.Infrastructure.csproj",
+              "RelativeToolTip": "SmartCargo.Infrastructure\\SmartCargo.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T22:42:24.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

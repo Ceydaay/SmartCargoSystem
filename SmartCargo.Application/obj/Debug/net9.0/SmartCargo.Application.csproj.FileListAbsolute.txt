@@ -1,0 +1,15 @@
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\bin\Debug\net9.0\SmartCargo.Application.deps.json
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\bin\Debug\net9.0\SmartCargo.Application.dll
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\bin\Debug\net9.0\SmartCargo.Application.pdb
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\bin\Debug\net9.0\SmartCargo.Domain.dll
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\bin\Debug\net9.0\SmartCargo.Domain.pdb
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\obj\Debug\net9.0\SmartCargo.Application.csproj.AssemblyReference.cache
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\obj\Debug\net9.0\SmartCargo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\obj\Debug\net9.0\SmartCargo.Application.AssemblyInfoInputs.cache
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\obj\Debug\net9.0\SmartCargo.Application.AssemblyInfo.cs
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\obj\Debug\net9.0\SmartCargo.Application.csproj.CoreCompileInputs.cache
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\obj\Debug\net9.0\SmartCar.B8448E55.Up2Date
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\obj\Debug\net9.0\SmartCargo.Application.dll
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\obj\Debug\net9.0\refint\SmartCargo.Application.dll
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\obj\Debug\net9.0\SmartCargo.Application.pdb
+C:\Users\ceyda.yilmaz\SmartCargoSystem\SmartCargo.Application\obj\Debug\net9.0\ref\SmartCargo.Application.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OOfvgWN7HwZfuw3VMjnSRU43h5ucDu+QM5HcQiuTzg4=",
+  "Source": "SmartCargo.API",
+  "BasePath": "_content/SmartCargo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
